@@ -12,7 +12,7 @@ brew install --cask affinity-photo
 brew install --cask blender
 brew install --cask deepl
 brew install --cask discord
-brew install --cask freecad
+# brew install --cask freecad
 brew install --cask messenger
 brew install --cask pixelsnap
 brew install --cask visual-studio-code
