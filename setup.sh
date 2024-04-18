@@ -4,6 +4,7 @@ brew install --cask Bitwarden
 brew install --cask cloudmounter
 # brew install --cask hiddenbar
 # brew install --cask karabiner-elements
+brew install --cask keycastr
 # brew install --cask maccy
 brew install --cask rectangle
 brew install --cask google-chrome
